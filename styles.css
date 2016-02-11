@@ -1,0 +1,18 @@
+header {
+	height: 489px;
+	position:relative;
+/*	background-image: url("http://bit.ly/1TfgjWY");*/
+
+}
+.headerImage {
+	position:absolute;
+	bottom:0;
+	z-index: -1;
+}
+.navBar {
+	width:950px;
+	margin:20px auto;
+}
+.logoButton {
+	width: 180px;
+}
