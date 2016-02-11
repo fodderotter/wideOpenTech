@@ -16,3 +16,7 @@ header {
 .logoButton {
 	width: 180px;
 }
+.headerNav {
+	display:flex;
+	flex-direction:row;
+}
